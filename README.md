@@ -10,7 +10,7 @@
 [+] Author :-
 
    Name : mrHacker
-   Youtube : https://www.youtube.com/channel/UCNfpSKz9sdioFENroTCkP6w?view_as=subscriber
+   Youtube : https://youtube.com/channel/UCNfpSKz9sdioFENroTCkP6w
    Github : https://github.com/mrHacker1704/Termux-Lazyscript.gi
 
 [+] Installation :-
